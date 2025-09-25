@@ -113,6 +113,15 @@ Run:
 ---
 
 ## Screenshots
+<img width="1919" height="979" alt="Screenshot 2025-09-25 200252" src="https://github.com/user-attachments/assets/52d0cc60-20f0-4e1f-8896-db858bbc12e2" />
+<img width="1919" height="976" alt="Screenshot 2025-09-25 200236" src="https://github.com/user-attachments/assets/ae48729d-3887-4f38-a893-840d8613707b" />
+<img width="1919" height="881" alt="Screenshot 2025-09-25 200217" src="https://github.com/user-attachments/assets/7f97cf2c-4c97-43a5-bbbb-fce530eb64b4" />
+<img width="1919" height="681" alt="Screenshot 2025-09-25 200106" src="https://github.com/user-attachments/assets/bfdb891a-15d7-46fc-a4c9-8d0942cc6ccc" />
+<img width="1919" height="983" alt="Screenshot 2025-09-25 200003" src="https://github.com/user-attachments/assets/9083bb91-c641-4778-ae49-de2849e2b015" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-25 195917" src="https://github.com/user-attachments/assets/45ac6343-2854-4ff2-9dcc-f2ca45521eb3" />
+<img width="1919" height="1078" alt="Screenshot 2025-09-25 195902" src="https://github.com/user-attachments/assets/af537133-bd6a-4279-9333-fe994e55cc89" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-25 195751" src="https://github.com/user-attachments/assets/3885305b-a0d9-407c-b4a0-6a58881c23b8" />
+<img width="1869" height="1022" alt="Screenshot 2025-09-25 195653" src="https://github.com/user-attachments/assets/fbfff2dc-0f41-4b11-b868-81d29e85ec1d" />
 
 
 
@@ -131,3 +140,4 @@ files student, course, and enrollment data are provided in the `/test-data` dire
 ---
 
 This README provides all necessary project overview, requirements, setup instructions, usage guidance, and technical context for Campus Course Records Manager (CCRM).
+
